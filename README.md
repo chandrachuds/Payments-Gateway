@@ -1,1 +1,1 @@
-# Payments-Gateway
+# Payments-Gateway app using Mern Stack
